@@ -2,4 +2,4 @@
 
 [Gabriel Hearne](https://brianjhuang.github.io/gabriel-hearne-juni/)
 
-[Eklavya Sharma](https://github.com/brianjhuang/eklavya-sharma-juni)
+[Eklavya Sharma](https://brianjhuang.github.io/eklavya-sharma-juni/)
