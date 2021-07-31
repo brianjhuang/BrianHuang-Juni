@@ -3,3 +3,5 @@
 [Gabriel Hearne](https://brianjhuang.github.io/gabriel-hearne-juni/)
 
 [Eklavya Sharma](https://brianjhuang.github.io/eklavya-sharma-juni/)
+
+[Anton Schuster](https://brianjhuang.github.io/anton-schuster-juni/)
